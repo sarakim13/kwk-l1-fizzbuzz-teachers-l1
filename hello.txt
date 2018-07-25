@@ -1,0 +1,5 @@
+name = "sara"
+puts name
+
+age = 18
+puts age
